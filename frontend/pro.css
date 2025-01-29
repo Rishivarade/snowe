@@ -1,0 +1,543 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.top p {
+    background-color: #3d3538;
+    height: 50px;
+}
+
+.top {
+    color: white;
+    text-align: center;
+}
+
+#carouselExampleIndicators {
+    position: relative;
+    top: 50px;
+    width: 100%;
+    height: 600px;
+}
+
+#carouselExampleIndicators img {
+    height: 550px;
+}
+
+.navbar {
+    margin-top: 50px;
+    z-index: 1000;
+    text-align: center;
+}
+
+.navbar.sticky {
+    background-color: white;
+}
+
+.navbar.sticky a {
+    color: black;
+}
+
+.navbar.sticky button {
+    color: black;
+}
+
+.navbar button {
+    color: white;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar:hover {
+    background-color: white;
+
+}
+
+.navbar:hover button {
+    color: black;
+}
+
+.navbar:hover a {
+    color: black;
+}
+
+nav {
+    display: flex;
+    height: 90px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dropdown:hover .submenu {
+    display: flex;
+    text-align: center;
+    transition: 0.3s all ease-in-out;
+    margin-top: 5px;
+}
+
+.dropdown:hover .menu {
+    display: block;
+    transition: 0.3s all ease-in-out;
+}
+
+.call {
+    color: white;
+}
+
+.navbar:hover .call {
+    color: black;
+}
+
+.navbar.sticky .call {
+    color: black;
+}
+
+.carousel-item {
+    position: relative;
+    text-align: center;
+}
+
+.carousel-item h1 {
+    position: absolute;
+    color: white;
+    top: 25%;
+    width: 100%;
+    z-index: 1000;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.carousel-item h3 {
+    font-style: italic;
+    position: absolute;
+    z-index: 1000;
+    top: 45%;
+    width: 100%;
+    color: white;
+    font-size: 35px;
+}
+
+.carousel-item a {
+
+    background-color: #3d3538;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    top: 60%;
+    left: 35%;
+    z-index: 1000;
+    font-weight: bold;
+}
+
+.carousel-item .last {
+    color: white;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    font-style: normal;
+
+}
+
+.carousel-item .last:hover {
+    color: black;
+    transition: 0.2s;
+}
+
+.carousel-item i {
+    font-size: 40px;
+}
+
+.carousel-item p {
+    font-weight: bold;
+}
+
+.carousel-item a:hover {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+}
+
+.backk {
+    background-image: url('images/Snowe_Homepage_ValueProp_Desktop_rl.webp');
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backk p {
+    font-weight: bold;
+}
+
+.backk span {
+    font-size: 50px;
+    font-family: SuisseWorks, Georgia, Times, Times New Roman, serif;
+    font-weight: 500;
+
+}
+
+.flextext {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.content h1 {
+    font-size: 50px;
+    font-family: SuisseWorks, Georgia, Times, Times New Roman, serif;
+    font-weight: bold;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    width: 80%;
+}
+
+.pictext1 {
+    width: 50%;
+    background-image: url('images/slide11.webp');
+    background-size: cover;
+
+}
+
+.swiper-slide:hover .pictext1 {
+    background-image: url('images/slide\ 1.webp');
+    transition: 0.4s;
+}
+
+.pictext1 img {
+    position: relative;
+}
+
+.pictext1 p {
+    position: absolute;
+    bottom: 0px;
+    height: 0px;
+    background-color: #3d3538;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    width: 50%;
+}
+
+.swiper-slide:hover p {
+    height: 100px;
+    padding-top: 30px;
+    transition: 0.5s;
+}
+
+.context {
+    width: 50%;
+}
+
+.swiper-slide:hover h1 {
+    transform: translateY(-10px);
+    transition: 0.5s;
+
+}
+
+.context p {
+    border: 2px solid black;
+    width: 20%;
+    margin: auto;
+}
+
+.context h6 a {
+    color: black;
+}
+
+.context i {
+    font-size: 15px;
+}
+
+.pictext2 {
+    width: 50%;
+    background-image: url('images/slide22.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.swiper-slide:hover .pictext2 {
+    background-image: url('images/slide2.webp');
+    transition: 0.4s;
+}
+
+.pictext2 img {
+    position: relative;
+}
+
+.pictext2 p {
+    position: absolute;
+    bottom: 0px;
+    height: 0px;
+    background-color: #3d3538;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    width: 50%;
+}
+
+.pictext3 {
+    width: 50%;
+    background-image: url('images/slide3.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.swiper-slide:hover .pictext3 {
+    background-image: url('images/slide33.jpg');
+    transition: 0.4s;
+}
+
+.pictext3 img {
+    position: relative;
+}
+
+.pictext3 p {
+    position: absolute;
+    bottom: 0px;
+    height: 0px;
+    background-color: #3d3538;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    width: 50%;
+}
+
+.txt {
+    font-family: SuisseWorks, Georgia, Times, Times New Roman, serif;
+    font-size: 50px;
+}
+
+.mySwiper1 {
+    width: 100%;
+    height: 110%;
+}
+
+.mySwiper1 .swiper-wrapper {
+    width: 100%;
+    height: 60%;
+}
+
+.mySwiper1 .swiper-wrapper .swiper-slide {
+    width: 50%;
+    height: 90%;
+}
+
+.mySwiper1 img {
+    width: 60%;
+}
+
+.flow {
+    text-align: center;
+}
+
+video {
+    width: 100%;
+}
+
+.texture {
+    background-color: #3d3538;
+    color: white;
+    height: 99%;
+}
+
+.texture a {
+    color: white;
+}
+
+.texture h1 {
+    font-size: 45px;
+}
+
+.magazine .divine h1 {
+    font-size: 50px;
+    font-family: SuisseWorks, Georgia, Times, Times New Roman, serif;
+    font-weight: bold;
+    color: rgb(221, 51, 51);
+}
+
+.maga img {
+    height: 100%;
+    width: 100%;
+}
+
+.maga {
+    position: relative;
+}
+
+.imgtext img {
+    width: 100%;
+    height: 100%;
+}
+
+.one {
+    position: absolute;
+    border: 1px solid white;
+    background-color: white;
+    width: 90%;
+    font-family: SuisseWorks, Georgia, Times, Times New Roman, serif;
+    bottom: 15px;
+}
+
+.footer {
+    background-color: rgb(29, 28, 28);
+}
+
+.footer p {
+    color: white;
+}
+
+.footer a {
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    transform: translateX(+3px);
+    transition: 0.3s;
+    color: white;
+}
+
+input {
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    border-top: 0px solid;
+    border-right: 0px solid;
+    width: 45%;
+}
+
+input:hover {
+    border-bottom: 1px solid black;
+
+}
+
+.footer i {
+
+    font-size: 20px;
+}
+
+.footer i:hover {
+    color: grey;
+}
+body {
+    font-family: sans-serif;
+}
+
+.rr {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+}
+.qq {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-top: 90px;
+}
+.qq .image {
+    width: 50%;
+} 
+.image {
+    width: 50%;
+}
+#signp {
+    width: 50%;
+}
+#signin {
+    width: 50%;
+}
+#signin .form {
+    padding: 20px 80px;
+    text-align: center;
+    margin: auto;
+}
+
+.form {
+    padding: 20px 70px;
+    text-align: center;
+}
+
+.form h1 {
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+.input-group span {
+    height: 10px;
+}
+.form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form button:hover {
+    background-color: #3E8E41;
+}
+span {
+    margin: 5px;
+}
+.card {
+    position: relative;
+}
+.pose {
+    position: absolute;
+    bottom: 36%;
+    
+}
+.cart {
+    position: relative;
+}
+.cart #image {
+    width: 100%;
+}
+.procart {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+.procart img {
+    border-radius: 50%;
+}

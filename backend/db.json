@@ -1,0 +1,639 @@
+{
+  "pitches": [
+    {
+      "title": "Percale Sheet Set",
+      "price": "247",
+      "percentage": 2.5,
+      "description": "Between the sheets is the place to be, especially when the sheets are right. Ours are a 500 thread count, long-staple percale that is breathable, crisp, and incredibly smooth. Contains 1 Flat Sheet, 1 Fitted Sheet, 2 Pillow Cases.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Percale_SheetSet_Hover_400x.jpg?v=1954780651818472822",
+      "id": "1"
+    },
+    {
+      "title": "Sateen Sheet Set",
+      "price": "56",
+      "percentage": 2.5,
+      "description": "Between the sheets is the place to be, especially when the sheets are right. Ours are a 500 thread count, long-staple percale that is breathable, crisp, and incredibly smooth. Contains 1 Flat Sheet, 1 Fitted Sheet, 2 Pillow Cases.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Sateen_SheetSet-clp-Hover_400x.jpg?v=11780242940742823298",
+      "id": "3"
+    },
+    {
+      "title": "Sateen Pillow Cases",
+      "price": "58",
+      "percentage": 2.5,
+      "description": "Wake up on a cloud – an ultra-smooth, luxuriously-soft cotton cloud that is. The smoothness may even convert you to sleeping face-down. Set of 2.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Bedding_Pillows-561_CLP_400x.jpg?v=4468352904847372392",
+      "id": "4"
+    },
+    {
+      "title": "Heritage Linen Sheet Set",
+      "price": "235",
+      "percentage": 2.5,
+      "description": "Introducing the heritage linen collection. Made in a 150 year old tradition with the utmost attention to quality and detail. These linens are the epitome of comfort.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/400x502_ivory_sheets_hover_snowexlooma_DSC9026_400x.jpg?v=6006721551101633760",
+      "id": "5"
+    },
+    {
+      "title": "Heritage Linen Pillowcase Set",
+      "price": "891",
+      "percentage": 2.5,
+      "description": "Introducing the heritage linen collection. Made in a 150 year old tradition with the utmost attention to quality and detail. These linens are the epitome of comfort.Double stonewashed for a beautifully lived-in feel and finish, this linen is like slipping into your favorite t-shirt— uniquely soft and instantly comfortable.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/400x502_Hover_pillowcases_400x.jpg?v=3673766301709304044",
+      "id": "6"
+    },
+    {
+      "title": "Heritage Linen Duvet Set",
+      "price": "236",
+      "percentage": 2.5,
+      "description": "Double stonewashed for a beautifully lived-in feel and finish, this linen is like slipping into your favorite t-shirt— uniquely soft and instantly comfortable.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/400x502_stone_sheets_hover_snowexlooma_DSC8799_400x.jpg?v=2901067703107726093",
+      "id": "7"
+    },
+    {
+      "title": "Down Comforter",
+      "price": "482",
+      "percentage": 2.5,
+      "description": "Made from the best down around, our comforter adds a luxurious layer to any bed. Whether you hit snooze too many times or drag it to the couch to binge-watch, its cocooning comfort is addictive.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Sleep_Studio_Duvet-17_CLPcrop_400x.jpg?v=3929365260096122323",
+      "id": "8"
+    },
+    {
+      "title": "Down Alternative Comforter",
+      "price": "89",
+      "percentage": 2.5,
+      "description": "Sometimes you want options. Chocolate or vanilla, paper or plastic — we get it. Our down alternative comforter features all the same properties as our down version, but filled with the plushest hypoallergenic microfiber. The decision is yours.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Sleep_Studio_Duvet-15_CLPcrop_400x.jpg?v=8518975699667569394",
+      "id": "9"
+    },
+    {
+      "title": "Down Pillow",
+      "price": "115",
+      "percentage": 2.5,
+      "description": "Dive head first into better sleep than you ever thought possible with premium white down inside the softest sateen shell. The super-high fill power makes tossing and turning a thing of the past.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Sleep_Studio_Inserts-7_400x.jpg?v=2282090414381792184",
+      "id": "10"
+    },
+    {
+      "title": "Down Alternative Pillow",
+      "price": "564",
+      "percentage": 2.5,
+      "description": "Get all the plumpness and fluff of a down pillow...without the down. This one is stuffed with near-magical hypoallergenic fill that will help you rack up all the hours of sleep you ever dreamed of.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Sleep_Studio_Inserts-12_400x.jpg?v=12210090291421966513",
+      "id": "11"
+    },
+    {
+      "title": "Down Euro Pillow",
+      "price": "79",
+      "percentage": 2.5,
+      "description": "Pull together any polished bed-scape with our feather blend euro pillows. Whether purely decorative or for adding extra support, this one does it all.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Sleep_Studio_Inserts-29_400x.jpg?v=17711892698590607030",
+      "id": "12"
+    },
+    {
+      "title": "Down Alternative Euro Pillow",
+      "price": "426",
+      "percentage": 2.5,
+      "description": "Our down alternative euro pillow is the grand dame of any bedroom. Perfectly pliable for reading or resting, you'll want at least two for either side of the bed.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Sleep_Studio_Inserts-27_400x.jpg?v=5724909027806284508",
+      "id": "13"
+    },
+    {
+      "title": "Softexture Duvet Cover",
+      "price": "762",
+      "percentage": 2.5,
+      "description": "Our Softexture bedding uses a unique wash to transform 100% long-staple cotton into a textured, breezily rumpled beauty that feels baby-soft. Combine with crisp percale,",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_WashedCotton_Duvet__0003_Ivory-Hover_400x.jpg?v=2206885869331310408",
+      "id": "14"
+    },
+    {
+      "title": "Softexture Blanket",
+      "price": "564",
+      "percentage": 2.5,
+      "description": "A blanket is that perfect top layer for those hot summer nights, or to add a layer of texture or color with your percale or sateen duvet. Our Softexture uses a unique wash that transforms 100% long-staple cotton into a textured, soft layer that looks just as good laid out straight across the bed, folded at the foot, or honestly, crumpled in the center.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/11.13_Snowe_NovemberHoliday94191_CLP_rl_400x.jpg?v=12895088744409724008",
+      "id": "15"
+    },
+    {
+      "title": "Softexture Pillow Sham",
+      "price": "264",
+      "percentage": 2.5,
+      "description": "Our lushly textured Softexture shams propped up on your bed look magazine spread-worthy. But you, propped up against these while reading a magazine? Bliss. The soft, washed 100% long-staple cotton is the result of double-cloth construction with a jacquard woven finish. Looks as good as it feels; feels even better when pajama-free. Shams sold individually.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_06.04-05_Bedding18118-hover_400x.jpg?v=2242030214831821074",
+      "id": "16"
+    },
+    {
+      "title": "Quilt",
+      "price": "341",
+      "percentage": 2.5,
+      "description": "Our 100% cotton, Italian-crafted beauty is versatile enough to lend a welcome weight on top of your comforter in the winter months, or stand alone as your one-and-only bed topper. Packed with premium fill that stays in place thanks to the stitched pattern – which yes, adds stylish texture to the perfect bedscape.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/11.13_Snowe_NovemberHoliday94033_CLP_400x.jpg?v=8290671324339790021",
+      "id": "17"
+    },
+    {
+      "title": "Percale Duvet Cover",
+      "price": "34",
+      "percentage": 2.5,
+      "description": "Set the stage for your sleep with a smooth showstopper. Our duvet cover offers a crisp matte look and a 500 thread count. With each detail in mind, it is finished with a subtle line of embroidery, a hidden rubber button closure, and interior duvet ties.",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Percale_DuvetCover-CLP-Hover_400x.jpg?v=7731989596578543495",
+      "id": "18",
+      "category": "Bathe"
+    },
+    {
+      "title": "Anywhere Linen Throw",
+      "price": "200",
+      "percentage": 2.5,
+      "description": "Versatility you can get wrapped up in. Our Anywhere Linen Throw is a take-me-anywhere, machine-washable, must-have companion from the beach to the bedroom. Crafted in Italy, it’s the perfect weight for wasting away an afternoon at the park or tucking in after dark. Prepare to be inseparable.",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_LinenThrow_0070-Forest_CLP_400x.jpg?v=5562405928602760359  ",
+      "id": "19",
+      "category": "Sleep"
+    },
+    {
+      "title": "Checked Throw",
+      "price": "210",
+      "percentage": 2.5,
+      "description": "Awe-inspiring Merino lambswool? Check. A playful, chic fringed edge? Check. A classic yet on-trend pattern in three perfect shades? Checked. Literally. Crafted in Italy to be both breathable and moisture-wicking, it’s extra light but extra warm so you can throw it on like a scarf, too.",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S10IWAI_Sleep_CheckedThrow_Ivory131304-CLP_400x.jpg?v=9154545502763790500",
+      "id": "20",
+      "category": "Sleep"
+    },
+    {
+      "title": "Cashmere Stripe Throw",
+      "price": "253",
+      "percentage": 2.5,
+      "description": "Italian-made, this cashmere throw will make a statement wherever it goes. The broken stripe pattern is so striking, we won't blame you for throwing it on as a shawl—thankfully its lightweight silhouette and natural breathability make it luxuriously warm (or cool) enough to be the always-right-layer.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Sleep_Cashmere_Throw_0963_CLP_400x.jpg?v=4073862647485041856",
+      "id": "21"
+    },
+    {
+      "title": "Eco Cashmere Throw",
+      "price": "243",
+      "percentage": 2.5,
+      "description": "We've engineered a new way to enjoy the luxe life. Crafted from 95% recycled cashmere, your conscience can feel as good as your cuddles. With a delicate fringe detailing, it's a Mother Earth-approved indulgence you don't need to resist.",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Sleep_Cashmere_Throw_0977_CLP_400x.jpg?v=12778355611910099076",
+      "id": "22",
+      "category": "Bathe"
+    },
+    {
+      "title": "Softexture Blanket",
+      "price": "215",
+      "percentage": 2.5,
+      "description": "A blanket is that perfect top layer for those hot summer nights, or to add a layer of texture or color with your percale or sateen duvet. Our Softexture uses a unique wash that transforms 100% long-staple cotton into a textured, soft layer that looks just as good laid out straight across the bed, folded at the foot, or honestly, crumpled in the center.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/11.13_Snowe_NovemberHoliday94191_CLP_rl_400x.jpg?v=12895088744409724008",
+      "id": "23"
+    },
+    {
+      "title": "Edge Stripe Throw",
+      "price": "230",
+      "percentage": 2.5,
+      "description": "Modern and classic, this oh-so-cozy throw is your good-for-all-occasions best friend. Versatile (available in three different colorways), lightweight but cozy enough for true comfort, and just a little edgy—a subtle eyelash fringe and contrasting edge stripe give it glamour when folded. Bring this throw anywhere and anyone not enveloped will be jealous.",
+      "category": "Sleep",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Sleep_Edge_Stripe_Throw_Ivory_Hover_400x.jpg?v=4853051860368253797",
+      "id": "24"
+    },
+    {
+      "title": "Classic Bath Towel",
+      "price": "120",
+      "percentage": 2.5,
+      "description": "Using a process that traps each cotton fiber with air, we've made a towel that is lightweight, absorbent, quick drying and incredibly soft.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/BathTowel-white-single_400x.jpg?v=5360566039693900309",
+      "id": "25"
+    },
+    {
+      "title": "Classic Hand Towel",
+      "price": "153",
+      "percentage": 2.5,
+      "description": "Thoughtfully sized to double as a hair towel, our Classic Hand Towel is more than meets the eye. Whether hanging on a towel rack or twisted up as a post-shower topper, it's a Snowe favorite.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Bathe_Long-Staple-Cotton_Portugal_Hand_Towel_Slate_Blue_039_400x.jpg?v=1642291644684193353",
+      "id": "26"
+    },
+    {
+      "title": "The Classic Starter Bathe Bundle",
+      "price": "162",
+      "percentage": 2.5,
+      "description": "Using a process that traps each cotton fiber with air, we've made a towel that is lightweight, absorbent, quick drying and incredibly soft.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Bathe_StarterBundle_Terry_AshGrey_16419_400x.jpg?v=1818630868142807068",
+      "id": "27"
+    },
+    {
+      "title": "Honeycomb Bath Towel",
+      "price": "302",
+      "percentage": 2.5,
+      "description": "Don't be fooled by how lightweight our Honeycomb towels are. We took the same material used for our editor-favorite robes to make for puckered beauties that dry you off quickly, thanks to the hundreds of absorbent honeycomb-like pockets. It all starts with 100% cotton, ",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S40CAEAI_Honeycomb_Bath_Towel4115_Charcoal-Hover_CLP_400x.jpg?v=9520344365109620069",
+      "id": "28"
+    },
+    {
+      "title": "Honeycomb Hand Towel",
+      "price": "208",
+      "percentage": 2.5,
+      "description": "Lighten up. Update your hand towel arsenal – and delight your guests – with our lighter-than-ever Honeycomb. Yes, the same material as our editor-favorite bathrobes.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S40CAEAI_Honeycomb_Hand_Towel3949_White_CLP_400x.jpg?v=14176518229965879714",
+      "id": "29"
+    },
+    {
+      "title": "Honeycomb Bath Set",
+      "price": "278",
+      "percentage": 2.5,
+      "description": "Let's wrap things up, shall we? Settle in with our honeycomb towel set, and matching bathrobe, i.e. a sophisticated bath makeover in a box. You'll be swaddling yourself in almost impossibly-lightweight cotton, all treated with a unique wash to maximize absorbency and provide a deliciously puckered-up texture.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SLATE-soak-set-pdp-049-v2_2_02acd111-69e6-4302-a836-2d0989caa18b_400x.jpg?v=15891772427153221961",
+      "id": "30"
+    },
+    {
+      "title": "Classic Bath Sheet",
+      "price": "254",
+      "percentage": 2.5,
+      "description": "Step out of the shower or tub onto a bath mat that is so plush, absorbent and super soft - you'll find yourself standing around naked a little bit longer. Our luxury bath mat is available in white, ivory, grey, slate and charcoal.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Bathe_Air_Spun_Long-Staple-Cotton_Portugal_Luxury_Bath_Mat_Ash_Grey_1214_rl_400x.jpg?v=6902120271141301636",
+      "id": "31"
+    },
+    {
+      "title": "Classic Bath Sheet",
+      "price": "270",
+      "percentage": 2.5,
+      "description": "Towels are not a one-size-fits-all solution. That's why our luxury bath sheet is generously sized, super soft, and made from our signature air spun cotton. The best quality with just a little more coverage..",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/BathSheet-grey-DarkGrey_400x.jpg?v=6893872875951814850",
+      "id": "32"
+    },
+    {
+      "title": "Classic Washcloth",
+      "price": "285",
+      "percentage": 2.5,
+      "description": "Using a technology that spins each cotton fiber with air, we've made a towel that is lightweight, absorbent, and quick drying. Wash up in celebration. Finally, your washcloth no longer feels like a sponge.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/WashCloth-ivory-S2-D2_400x.jpg?v=6204792430203990753",
+      "id": "33"
+    },
+    {
+      "title": "Classic Soak Set",
+      "price": "231",
+      "percentage": 2.5,
+      "description": "A candle and set of ultra-soft bath and hand towels are all you need to lounge in the tub and then get yourself out of it again. There's nothing that a good bath can't fix ... or our Classic Soak Set.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Bathe_Terry_Long_Staple_Cotton_Soak_Set_White_9839_1_400x.jpg?v=4156694466036471351",
+      "id": "34"
+    },
+    {
+      "title": "Honeycomb Spa Set",
+      "price": "344",
+      "percentage": 2.5,
+      "description": "For a fraction of the cost of a trip to Canyon Ranch, you can truly treat yourself. Our Spa Set, with a luxurious bathrobe and a Rinse & Repeat candle, will send you on the path to serenity.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/11.13_Snowe_NovemberHoliday93976-slate-honeycomb-bathrobe-rinse_repeat-spa_set_CLP_400x.jpg?v=6523037184442018545",
+      "id": "35"
+    },
+    {
+      "title": "Honeycomb Bathrobe",
+      "price": "210",
+      "percentage": 2.5,
+      "description": "We improved upon the classic waffle (not the syrup one, the weave) for a fast-drying, lightweight riff that's effortlessly chic. Our revolutionary soft construction offers a bit of give, so you feel swaddled and up for anything post-shower. It's Oeko-tex certified, so you can lounge with a clear conscience.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/11.13_Snowe_NovemberHoliday93976_rl_400x.jpg?v=9053734643761234812",
+      "id": "36"
+    },
+    {
+      "title": "Classic Spa Set",
+      "price": "246",
+      "percentage": 2.5,
+      "description": "For a fraction of the cost of a trip to Canyon Ranch, you can truly treat yourself. Our Spa Set, with a luxurious bathrobe and a Rinse & Repeat candle, will send you on the path to serenity.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/1.24_Snowe_Valentines_Bundles.9395-approved-V2_RinseAndRepeat_CLP_400x.jpg?v=17751295264395776694",
+      "id": "37"
+    },
+    {
+      "title": "Classic Bathrobe",
+      "price": "222",
+      "percentage": 2.5,
+      "description": "Luxury is a plush bathrobe at home, and ours provides all the amenities of the finest hotel version. Our fast-drying air-spun cotton terry bathrobe is lightweight, soft, and always ready for the next time you suds up.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/1.24_Snowe_Valentines-Bundles.9395-approved-V2_1_400x.jpg?v=10606060125690741396",
+      "id": "38"
+    },
+    {
+      "title": "Scented Candle",
+      "price": "234",
+      "percentage": 2.5,
+      "description": "Our soy wax blend candles have a burn lifetime of 75 hours, making for a subtle yet immersive backdrop for any room in your home. Choose any of our five custom-blended scents for truly unique and transporting fragrances. ",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SnoweHoliday-7017_CLP_Hover_400x.jpg?v=9769238284599117007",
+      "id": "39"
+    },
+    {
+      "title": "Scented Candle Set, Set of 5",
+      "price": "309",
+      "percentage": 2.5,
+      "description": "Why pick one when you can have it all? Experience all 5 of our unique scents, each one designed to evoke a subtle aura in your home. With a burn time of 75 hours each, you'll get 375 hours of scent serenity if you play your matches right.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/Bundles-7984_CLP_400x.jpg?v=10137352495209062749",
+      "id": "40"
+    },
+    {
+      "title": "Marble Catchall",
+      "price": "64",
+      "percentage": 2.5,
+      "description": "This miniature marvel packs a punch with its incredible versatility. Whether you use it as a coaster, a candle lifter, or for tiny treasures—it turns anything into a monumental moment.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Marble_Collection_Sand_0523_CLP_400x.jpg?v=7643758151592512728",
+      "id": "41"
+    },
+    {
+      "title": "Shower Curtain - Essential White",
+      "price": "95",
+      "percentage": 2.5,
+      "description": "Made of luxurious linen spun and finished in Italy, let us introduce you to a better shower ... in other words, the pleasure of having a better view even when you're standing outside of it.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Bathe_Premium_Belgian_Flax_Spun_Linen_Italy_Shower_Curtain_White_1012_rl_400x.jpg?v=5644090435348554180",
+      "id": "42"
+    },
+    {
+      "title": "Shower Curtain - Slate Blue",
+      "price": "403",
+      "percentage": 2.5,
+      "description": "Made of luxurious linen spun and finished in Italy, let us introduce you to a better shower ... in other words, the pleasure of havin",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Bathe_Premium_Belgian_Flax_Spun_Linen_Italy_Shower_Curtain_Slate_911-2_400x.jpg?v=6273822509028357991",
+      "id": "43"
+    },
+    {
+      "title": "Anywhere Linen Throw",
+      "price": "303",
+      "percentage": 2.5,
+      "description": "Versatility you can get wrapped up in. Our Anywhere Linen Throw is a take-me-anywhere, machine-washable, must-have companion from the beach to the bedroom. Crafted in Italy, it’s the perfect weight for wasting away an afternoon at the park or tucking in after dark. Prepare to be inseparable.",
+      "category": "Bathe",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_LinenThrow_0070-Forest_CLP_400x.jpg?v=5562405928602760359",
+      "id": "44"
+    },
+    {
+      "title": "Flatware Settings - Brushed Gold  ",
+      "price": "221",
+      "percentage": 2.5,
+      "description": "Our classic flatware has won rave reviews from table-setting connoisseurs as well as folks who’ve “never felt this way about flatware.” We get it: Utensils tend not to make your heart beat faster. But why shouldn’t they? Here's to a lifetime of sticking a fork in it. Choose from our 5-piece or 20-piece table settings.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/FINAL-Snowe_Eat_Stainless_Steel_Gold_Flatware_Fork_Knife_Spoon_039-hover_NewDesignForks-clp_400x.jpg?v=14415626702425702446",
+      "id": "45"
+    },
+    {
+      "title": "Flatware Settings - Classic Stainless",
+      "price": "213",
+      "percentage": 2.5,
+      "description": "Our classic flatware has won rave reviews from table-setting connoisseurs as well as folks who’ve “never felt this way about flatware.” We get it: Utensils tend not to make your heart beat faster. But why shouldn’t they? Here's to a lifetime of sticking a fork in it. Choose from our 5-piece or 20-piece table settings.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/FlatwareSetting-A_NewDesignForks-clp_400x.jpg?v=18049667010353314089",
+      "id": "46"
+    },
+    {
+      "title": "Serving Set",
+      "price": "247",
+      "percentage": 2.5,
+      "description": "The highest quality classic stainless steel and balanced proportions will give you new enthusiasm to always serve others first. Pass your plate, please.  ",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/ServingSet-A_CLPcrop_400x.jpg?v=15602640542298051316",
+      "id": "47"
+    },
+    {
+      "title": "Hostess Set",
+      "price": "232",
+      "percentage": 2.5,
+      "description": "Give your guests a taste of the finer things, no fine dining necessary. Our classic stainless steel serving pieces will have people going back for seconds and a second look.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/HostSet-A_CLPcrop_400x.jpg?v=17991192016016461498",
+      "id": "48"
+    },
+    {
+      "title": "Ladle",
+      "price": "116",
+      "percentage": 2.5,
+      "description": "Our Ladle is the extra detail that makes the meal go down smooth. Go ahead, pass the sauce.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/LADLE-A_CLP_400x.jpg?v=1553434056713497283",
+      "id": "49"
+    },
+    {
+      "title": "Cake Server",
+      "price": "44",
+      "percentage": 2.5,
+      "description": "Cutting the cake is great, but the real magic is in the serving. Reach for this classic stainless steel server right after all the candles are blown out.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/PastryServer-A_CLP_400x.jpg?v=3546428259337739939",
+      "id": "50"
+    },
+    {
+      "title": "Resin Low Serving Bowl",
+      "price": "229",
+      "percentage": 2.5,
+      "description": "Masterful (and magically lightweight), this low serving bowl is worth planning your entire menu around. Thanks to its handswirled and handcrafted nature, each piece is one-of-a-kind. With its low profile, the bowl leaves enough of a sightline across the table—if you can take your eyes off its swirling majesty, that is. Available in 4 hypnotic hues—Luna, Sand, Onyx, and Ocean.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Resin_Tableware_Serverware_1560R1-clp_400x.jpg?v=2168848315939646659",
+      "id": "52"
+    },
+    {
+      "title": "Resin Serving Spoon Set, Set of 2",
+      "price": "247",
+      "percentage": 2.5,
+      "description": "Serve up a look no matter what you're serving. Handswirled and handcrafted, each spoon of this resin set is one-of-a-kind. Use them together for serving salad or split them up in individual dishes for an extra dose of drama. Available in 4 hypnotic hues—Luna, Sand, Onyx, and Ocean. ",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Resin_Tableware_Serverware_2029R1-clp_400x.jpg?v=10206329668002203696",
+      "id": "53"
+    },
+    {
+      "title": "Resin Oval Serving Bowl",
+      "price": "62",
+      "percentage": 2.5,
+      "description": "Handswirled and handpolished, each mesmerizing resin serving bowl is one-of-a-kind. Masterful (and magically lightweight), this bowl makes a stunning statement serving leafy greens at the dinner table or catching keys on the console. Available in 4 hypnotic hues—Luna, Sand, Onyx, and Ocean. ",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Resin_Tableware_Serverware_1793R1-clp_400x.jpg?v=2430175746287067030",
+      "id": "54"
+    },
+    {
+      "title": "Resin Large Nesting Tray",
+      "price": "98",
+      "percentage": 2.5,
+      "description": "Masterfully handswirled and handmade, this large resin rectangular nesting tray is as at home dressing up your appetizers as it is on your dresser. Use it as a catchall, to serve apps, or to display your jewelry. We love nesting it with its smaller counterpart for maximum drama. Available in 4 hypnotic hues—Luna, Sand, Onyx, and Ocean. ",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Resin_Tableware_Serverware_1719R1-clp_400x.jpg?v=9981813433644009509",
+      "id": "55"
+    },
+    {
+      "title": "Walnut Cheese Board",
+      "price": "67",
+      "percentage": 2.5,
+      "description": "This American-made, hand-finished walnut Cheese Board will serve as the most unique piece on your dinner or coffee table. Or even nightstand. Because while it's technically cheese, it makes for a beautiful background for cookies and a glass of milk as well. ",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/CheeseBoardRedo-010_400x.jpg?v=2147501944204625796",
+      "id": "56"
+    },
+    {
+      "title": "Marble Cheese Board",
+      "price": "208",
+      "percentage": 2.5,
+      "description": "The highlight of any event comes early when it arrives on the Marble Cheese Board. In four striking shades, any appetizer from a chunk of cheddar to a bite of bruschetta steals the show. Good luck saving room for dinner.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Marble_Cheeseboard_Black_0091_400x.jpg?v=4922421212722540238",
+      "id": "57"
+    },
+    {
+      "title": "Dinner Plates, Set of 4",
+      "price": "264",
+      "percentage": 2.5,
+      "description": "Our plate's balanced profile and lightweight design cuts right to the chase of looking and working great. It's an everyday essential made elegant. Set of 4.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/DinnerPlate-B_CLP_400x.jpg?v=17931372525031701463",
+      "id": "58"
+    },
+    {
+      "title": "Dinner Bowls",
+      "price": "249",
+      "percentage": 2.5,
+      "description": "Think of our dinner bowl as the dinner plate’s curvaceous cousin. All the versatility for everyday use, with just the right assets worth flaunting. From entrée pastas and salads to those oh-so-healthy grain bowls you’re craving these days, this perfectly proportioned coupe plate elevates whatever’s on the menu. Set of 4.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Eat_Dinner_Bowl_Porcelain_Limoges_035_rl_400x.jpg?v=5331060978605999286",
+      "id": "59"
+    },
+    {
+      "title": "Marble Accent Bowl",
+      "price": "234",
+      "percentage": 2.5,
+      "description": "Make it extra spicy. Or don’t. However you prefer to dip or sprinkle a little extra flavor the Marble Accent Bowl makes sure you look good doing it. On the side, front and center, single, or grouped, it’s your most versatile piece of flair.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Marble_Small_Bowl_White_0864-Hover_1_400x.jpg?v=10401197077377668770",
+      "id": "60"
+    },
+    {
+      "title": "Marble Coasters, Set of 4",
+      "price": "215",
+      "percentage": 2.5,
+      "description": "Put ‘er there. Or over there. Treat every sip to a throne of handcrafted Marble, from your piping hot morning cup to the crisp cap on your evening. Then repeat. Set of 4.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Marble_Collection_Coasters_Black_1195-2_400x.jpg?v=2656711107861476529",
+      "id": "61"
+    },
+    {
+      "title": "Chef's Towel - Classic Stripe",
+      "price": "230",
+      "percentage": 2.5,
+      "description": "A French twist on one of our best-sellers: The chef's towel/apron (who doesn't love a two-fer?) is now available in low-key, fashion-forward stripes.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Eat_Chefs_Towel_Classic_Stripe_Linen_Natural_Hover_400x.jpg?v=17526660229194971750",
+      "id": "62"
+    },
+    {
+      "title": "Marble Candle Holders, Set of 2",
+      "price": "207",
+      "percentage": 2.5,
+      "description": "Whether or not you gave up cooking after the third attempt to order takeout, count on the Marble Candle Holders to lift the mood. The perfect balance of sturdy and sweet to help you feel relaxed, romantic, or safe during a blackout. Set of 2.",
+      "category": "Eat",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Marble_Candle_Holder_Grey_1277-Hover_1_400x.jpg?v=2148265631213946856",
+      "id": "63"
+    },
+    {
+      "title": "Cocktail Shaker",
+      "price": "216",
+      "percentage": 2.5,
+      "description": "Make it extra spicy. Or don’t. However you prefer to dip or sprinkle a little extra flavor the Marble Accent Bowl makes sure you look good doing it. On the side, front and center, single, or grouped, it’s your most versatile piece of flair.",
+      "category": "Drink",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S10IWAI_Drink_shaker_131686-CLP_400x.jpg?v=14449809005652243267",
+      "id": "64"
+    },
+    {
+      "title": "Marble Wine Cooler",
+      "price": "126",
+      "percentage": 2.5,
+      "description": "Make it extra spicy. Or don’t. However you prefer to dip or sprinkle a little extra flavor the Marble Accent Bowl makes sure you look good doing it. On the side, front and center, single, or grouped, it’s your most versatile piece of flair.",
+      "category": "Drink",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_MarbleCollection_WineCooler23653_Hover_CLP_400x.jpg?v=2923894395516295898",
+      "id": "65"
+    },
+    {
+      "title": "Scented Candle",
+      "price": "42",
+      "percentage": 2.5,
+      "description": "Our soy wax blend candles have a burn lifetime of 75 hours, making for a subtle yet immersive backdrop for any room in your home. Choose any of our five custom-blended scents for truly unique and transporting fragrances. ",
+      "category": "Decor",
+      "image": "https://snowehome.com/cdn/shop/files/SnoweHoliday-7017_CLP_Hover_400x.jpg?v=9769238284599117007",
+      "id": "66"
+    },
+    {
+      "title": "Scented Candle Set, Set of 5",
+      "price": "234",
+      "percentage": 2.5,
+      "description": "Why pick one when you can have it all? Experience all 5 of our unique scents, each one designed to evoke a subtle aura in your home. With a burn time of 75 hours each, you'll get 375 hours of scent serenity if you play your matches right.",
+      "category": "Decor",
+      "image": "https://snowehome.com/cdn/shop/files/Bundles-7984_CLP_400x.jpg?v=10137352495209062749",
+      "id": "67"
+    },
+    {
+      "title": "Marble Catchall",
+      "price": "214",
+      "percentage": 2.5,
+      "description": "This miniature marvel packs a punch with its incredible versatility. Whether you use it as a coaster, a candle lifter, or for tiny treasures—it turns anything into a monumental moment.",
+      "category": "Decor",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Marble_Collection_Sand_0523_CLP_400x.jpg?v=7643758151592512728",
+      "id": "68"
+    },
+    {
+      "title": "Shower Curtain - Essential White",
+      "price": "240",
+      "percentage": 2.5,
+      "description": "Made of luxurious linen spun and finished in Italy, let us introduce you to a better shower ... in other words, the pleasure of having a better view even when you're standing outside of it.",
+      "category": "Decor",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Bathe_Premium_Belgian_Flax_Spun_Linen_Italy_Shower_Curtain_White_1012_rl_400x.jpg?v=5644090435348554180",
+      "id": "69"
+    },
+    {
+      "title": "Shower Curtain - Slate Blue",
+      "price": "241",
+      "percentage": 2.5,
+      "description": "Made of luxurious linen spun and finished in Italy, let us introduce you to a better shower ... in other words, the pleasure of havin",
+      "category": "Decor",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Bathe_Premium_Belgian_Flax_Spun_Linen_Italy_Shower_Curtain_Slate_911-2_400x.jpg?v=6273822509028357991",
+      "id": "70"
+    },
+    {
+      "title": "Anywhere Linen Throw",
+      "price": "247",
+      "percentage": 2.5,
+      "description": "Versatility you can get wrapped up in. Our Anywhere Linen Throw is a take-me-anywhere, machine-washable, must-have companion from the beach to the bedroom. Crafted in Italy, it’s the perfect weight for wasting away an afternoon at the park or tucking in after dark. Prepare to be inseparable.",
+      "category": "Decor",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_LinenThrow_0070-Forest_CLP_400x.jpg?v=5562405928602760359",
+      "id": "71"
+    }
+  ],
+  "cart": [
+    {
+      "id": "ef67",
+      "title": "Heritage Linen Duvet Set",
+      "image": "https://snowehome.com/cdn/shop/files/400x502_stone_sheets_hover_snowexlooma_DSC8799_400x.jpg?v=2901067703107726093",
+      "price": "236"
+    },
+    {
+      "id": "08d7",
+      "title": "Down Alternative Comforter",
+      "image": "https://snowehome.com/cdn/shop/files/Sleep_Studio_Duvet-15_CLPcrop_400x.jpg?v=8518975699667569394",
+      "price": "89"
+    }
+  ]
+}
